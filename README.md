@@ -1,3 +1,3 @@
 # HTML-CSS-OB2
 
-Página HTML E CSS de receitas caseiras.
+Projeto de uma página HTML E CSS de receitas caseiras.
